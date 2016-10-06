@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Format">
+      <action id="OptimizeImports" />
+      <action id="AutoIndentLines" />
+      <action id="ReformatCode" />
+      <action id="RearrangeCode" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
