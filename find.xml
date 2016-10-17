@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'sdk'" />
-    <option name="defaultScopeName" value="Module 'sdk'" />
-    <option name="SEARCH_SCOPE" value="Module 'sdk'" />
+    <option name="customScope" value="Project 'rashomon-android-sdk'" />
+    <option name="defaultScopeName" value="Project 'rashomon-android-sdk'" />
+    <option name="SEARCH_SCOPE" value="Project 'rashomon-android-sdk'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
