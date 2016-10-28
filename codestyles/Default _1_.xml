@@ -46,7 +46,7 @@
     </option>
   </GroovyCodeStyleSettings>
   <JavaCodeStyleSettings>
-    <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
+    <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
