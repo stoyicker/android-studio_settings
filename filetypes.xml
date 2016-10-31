@@ -4,6 +4,7 @@
       <mapping pattern="issued_at" type="PLAIN_TEXT" />
       <mapping pattern="expiry" type="PLAIN_TEXT" />
       <mapping pattern="subject" type="PLAIN_TEXT" />
+      <mapping pattern="slide_in_from_right_beyond_screen" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="dangerfile" type="PLAIN_TEXT" />
       <mapping pattern="issuer" type="PLAIN_TEXT" />
