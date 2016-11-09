@@ -1,37 +1,34 @@
 <templateSet group="AndroidLog">
-  <template name="logd" value="android.util.Log.d(getClass().getName(), &quot;$METHOD_NAME$: $content$&quot;);" description="Log.d(getClass().getName(), String)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="logd" value="android.util.Log.d(&quot;$CLASS_NAME$&quot;, String.format(Locale.ENGLISH, &quot;&quot;));" description="Log.d(getClass().getName(), String.format(Locale.ENGLISH, String))" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="loge" value="android.util.Log.e(getClass().getName(), &quot;$METHOD_NAME$: $content$&quot;, $exception$);" description="Log.e(getClass().getName(), String, Exception)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="loge" value="android.util.Log.e(&quot;$CLASS_NAME$&quot;, String.format(Locale.ENGLISH, &quot;&quot;), $exception$);" description="Log.e(getClass().getName(), String.format(Locale.ENGLISH, String), Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="logi" value="android.util.Log.i(getClass().getName(), &quot;$METHOD_NAME$: $content$&quot;);" description="Log.i(getClass().getName(), String)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="logi" value="android.util.Log.i(&quot;$CLASS_NAME$&quot;, String.format(Locale.ENGLISH, &quot;&quot;));" description="Log.i(getClass().getName(), String.format(Locale.ENGLISH, String))" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="logw" value="android.util.Log.w(getClass().getName(), &quot;$METHOD_NAME$: $content$&quot;, $exception$);" description="Log.w(getClass().getName(), String, Exception)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="logw" value="android.util.Log.w(&quot;$CLASS_NAME$&quot;, String.format(Locale.ENGLISH, &quot;&quot;), $exception$);" description="Log.w(getClass().getName(), String.format(Locale.ENGLISH, String), Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="wtf" value="android.util.Log.wtf(getClass().getName(), &quot;$METHOD_NAME$: $content$&quot;, $exception$);" description="Log.wtf(getClass().getName(), String, Exception)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="wtf" value="android.util.Log.wtf(&quot;$CLASS_NAME$&quot;, String.format(Locale.ENGLISH, &quot;&quot;), $exception$);" description="Log.wtf(getClass().getName(), String.format(Locale.ENGLISH, String), Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="logm" value="android.util.Log.d(getClass().getName(), $content$);" description="Log method name and its arguments" toReformat="true" toShortenFQNames="true">
+  <template name="logm" value="android.util.Log.d(&quot;$CLASS_NAME$&quot;, $content$);" description="Log method name and its arguments" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="groovyScript(&quot;def params = _2.collect {it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', '); return '\&quot;' + _1 + '() called' + (params.empty  ? '' : ' with: ' + params) + '\&quot;'&quot;, methodName(), methodParameters())" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="logr" value="android.util.Log.d(getClass().getName(), &quot;$METHOD_NAME$() returned: &quot; +  $result$);" description="Log result of this method" toReformat="true" toShortenFQNames="true">
+  <template name="logr" value="android.util.Log.d(&quot;$CLASS_NAME$&quot;, &quot;$METHOD_NAME$() returned: &quot; +  $result$);" description="Log result of this method" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="result" expression="variableOfType(methodReturnType())" defaultValue="" alwaysStopAt="true" />
     <context />
