@@ -1,0 +1,16 @@
+<keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
+</keymap>
