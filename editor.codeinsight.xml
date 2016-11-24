@@ -11,5 +11,6 @@
     <EXCLUDED_PACKAGE NAME="edu.emory" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.jetbrains.annotations.Nullable" />
+    <EXCLUDED_PACKAGE NAME="retrofit2.http.HEAD" />
   </component>
 </application>
