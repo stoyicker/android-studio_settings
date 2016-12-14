@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'rashomon-android-sdk'" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,10 +14,10 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.gradle</mask>
       <mask>RashomonManager.java</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
