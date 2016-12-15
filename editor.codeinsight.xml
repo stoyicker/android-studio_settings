@@ -13,6 +13,8 @@
     <EXCLUDED_PACKAGE NAME="com.schibsted.spt.tracking.sdk.util" />
     <EXCLUDED_PACKAGE NAME="dagger.internal" />
     <EXCLUDED_PACKAGE NAME="edu.emory" />
+    <EXCLUDED_PACKAGE NAME="java.util.Observable" />
+    <EXCLUDED_PACKAGE NAME="java.util.Observer" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="okhttp3.internal.framed.FrameReader.Handler" />
