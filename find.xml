@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'rashomon-android-sdk'" />
-    <option name="defaultScopeName" value="Project 'rashomon-android-sdk'" />
+    <option name="customScope" value="Module 'example'" />
+    <option name="defaultScopeName" value="Module 'example'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'rashomon-android-sdk'" />
+    <option name="SEARCH_SCOPE" value="Module 'example'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
