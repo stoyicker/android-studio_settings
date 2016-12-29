@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'example'" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,7 @@
       <mask>*.java</mask>
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
