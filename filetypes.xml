@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="connection" type="PLAIN_TEXT" />
       <mapping pattern="issued_at" type="PLAIN_TEXT" />
       <mapping pattern="expiry" type="PLAIN_TEXT" />
       <mapping pattern="subject" type="PLAIN_TEXT" />
