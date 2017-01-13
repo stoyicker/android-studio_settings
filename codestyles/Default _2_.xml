@@ -1,6 +1,6 @@
 <code_scheme name="Default (2)">
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
     <value />
   </option>
