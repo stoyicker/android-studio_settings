@@ -20,6 +20,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.Observer" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="net.bytebuddy.implementation.Implementation.Context" />
     <EXCLUDED_PACKAGE NAME="okhttp3.internal.framed.FrameReader.Handler" />
     <EXCLUDED_PACKAGE NAME="org.jetbrains.annotations.Nullable" />
     <EXCLUDED_PACKAGE NAME="retrofit2.http.HEAD" />
