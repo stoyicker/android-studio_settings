@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'app'" />
-    <option name="FILE_MASK" value="!*.md" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +20,8 @@
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.kt</mask>
-      <mask>*.java</mask>
       <mask>!*.md</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
