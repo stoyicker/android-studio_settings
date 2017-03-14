@@ -2,6 +2,9 @@
   <action id="FileChooser.NewFolder" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="k" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="meta n" second-keystroke="p" />
   </action>
