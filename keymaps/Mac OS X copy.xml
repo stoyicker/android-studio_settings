@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="p" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
