@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
