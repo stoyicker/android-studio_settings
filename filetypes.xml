@@ -1,25 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="connection" type="PLAIN_TEXT" />
       <mapping pattern="issued_at" type="PLAIN_TEXT" />
       <mapping pattern="network_security_config.xml" type="PLAIN_TEXT" />
       <mapping pattern="setup" type="PLAIN_TEXT" />
+      <mapping pattern="activity_top_gaming_posts.xml" type="PLAIN_TEXT" />
       <mapping pattern="subject" type="PLAIN_TEXT" />
       <mapping pattern="slide_in_from_right_beyond_screen" type="PLAIN_TEXT" />
       <mapping pattern="person_id_not_found" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="dangerfile" type="PLAIN_TEXT" />
       <mapping pattern="issuer" type="PLAIN_TEXT" />
       <mapping pattern="id_token" type="PLAIN_TEXT" />
       <mapping pattern="expiry" type="PLAIN_TEXT" />
-      <mapping pattern="activity_top_gaming_posts.xml" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="MockFile" type="PLAIN_TEXT" />
-      <mapping pattern="connection" type="PLAIN_TEXT" />
       <mapping pattern="service_unavailable" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping pattern="rotate_45.xml" type="XML" />
       <mapping pattern="network_security_config" type="XML" />
