@@ -9,11 +9,15 @@
     <EXCLUDED_PACKAGE NAME="android.database.Observable" />
     <EXCLUDED_PACKAGE NAME="android.icu.text.Normalizer2.Mode" />
     <EXCLUDED_PACKAGE NAME="android.opengl" />
+    <EXCLUDED_PACKAGE NAME="android.support.design.R.id.never" />
     <EXCLUDED_PACKAGE NAME="android.support.design.widget.TabLayout.Mode" />
     <EXCLUDED_PACKAGE NAME="android.support.test.espresso.core.deps.guava.base.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="android.support.v7.appcompat.R.id.never" />
+    <EXCLUDED_PACKAGE NAME="android.telecom.Call" />
     <EXCLUDED_PACKAGE NAME="android.test.MoreAsserts" />
     <EXCLUDED_PACKAGE NAME="android.util.EventLogTags" />
     <EXCLUDED_PACKAGE NAME="android.view.Display.Mode" />
+    <EXCLUDED_PACKAGE NAME="com.schibsted.login.R.id.never" />
     <EXCLUDED_PACKAGE NAME="com.schibsted.spt.tracking.sdk.util" />
     <EXCLUDED_PACKAGE NAME="dagger.internal" />
     <EXCLUDED_PACKAGE NAME="edu.emory" />
