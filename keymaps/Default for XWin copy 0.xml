@@ -2,5 +2,14 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="s" />
   </action>
+  <action id="Diff.SelectedChange" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoLine" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="p" />
+  </action>
 </keymap>
