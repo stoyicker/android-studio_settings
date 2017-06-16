@@ -4,6 +4,7 @@
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
     <notification groupId="Outdated Kotlin Runtime" displayType="NONE" />
+    <notification groupId="Platform and Plugin Updates" displayType="NONE" />
     <notification groupId="System Health" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldLog="false" />
