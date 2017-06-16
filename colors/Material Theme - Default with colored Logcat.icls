@@ -8,7 +8,7 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -917,25 +917,10 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value />
-    </option>
     <option name="KOTLIN_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
       </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value />
     </option>
     <option name="LABEL">
       <value>
