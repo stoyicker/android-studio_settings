@@ -1,24 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'master-slave-clean-store'" />
+    <option name="defaultScopeName" value="Project 'master-slave-clean-store'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>RashomonManager.java</mask>
       <mask>*.gradle</mask>
+      <mask>*.xml</mask>
       <mask>*.kt</mask>
       <mask>!*.md</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
