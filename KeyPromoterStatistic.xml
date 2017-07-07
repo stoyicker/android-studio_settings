@@ -1,15 +1,5 @@
 <application>
   <component name="KeyPromoterStatistic">
-    <option name="statistics">
-      <Statistic Action="Run 'app'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'app'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-    </option>
     <option name="suppressed">
       <Statistic Action="Android Monitor">
         <Item>
@@ -32,6 +22,14 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
