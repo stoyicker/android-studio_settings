@@ -6,7 +6,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
@@ -16,6 +16,14 @@
           <IdeaActionID>ActivateAndroidMonitorToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Android Monitor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
