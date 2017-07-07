@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="ADB Idea (Errors)" displayType="NONE" />
     <notification groupId="Android/Gradle Notification Group" displayType="NONE" />
+    <notification groupId="Convert to WebP" displayType="NONE" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
     <notification groupId="Framework Detection" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
