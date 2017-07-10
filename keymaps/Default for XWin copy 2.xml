@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for XWin copy 2" parent="Default for XWin">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="s" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoLine" />
+</keymap>
