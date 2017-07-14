@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -65,6 +65,12 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings Repository…">
+        <Item>
+          <IdeaActionID>ConfigureIcs</IdeaActionID>
+          <Description>Settings Repository…</Description>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
