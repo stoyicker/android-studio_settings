@@ -9,14 +9,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+Button1 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Messages">
         <Item>
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
@@ -30,7 +22,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
