@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'master-slave-clean-store'" />
-    <option name="defaultScopeName" value="Project 'master-slave-clean-store'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="strings.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
@@ -12,6 +13,7 @@
       <mask>*.kt</mask>
       <mask>!*.md</mask>
       <mask>*.java</mask>
+      <mask>strings.xml</mask>
     </recentFileMasks>
   </component>
 </application>
