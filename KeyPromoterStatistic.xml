@@ -11,7 +11,6 @@
       </Statistic>
       <Statistic Action="Compare">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Compare</Description>
           <Count>1</Count>
@@ -27,18 +26,9 @@
       </Statistic>
       <Statistic Action="Hide">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Hide All Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
-          <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -66,7 +56,6 @@
       </Statistic>
       <Statistic Action="Restore Popup">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
           <Description>Restore Popup</Description>
           <Count>1</Count>
@@ -114,12 +103,26 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>RebuildGradleProject</IdeaActionID>
+          <Description>Rebuild Project</Description>
         </Item>
       </Statistic>
       <Statistic Action="Run">
