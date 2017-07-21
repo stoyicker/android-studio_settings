@@ -7,4 +7,7 @@
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="k" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="p" />
+  </action>
 </keymap>
