@@ -14,6 +14,9 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="p" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="f" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
