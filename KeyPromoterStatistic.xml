@@ -82,7 +82,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>13</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show History">
