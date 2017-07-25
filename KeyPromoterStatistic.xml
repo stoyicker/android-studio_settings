@@ -67,7 +67,7 @@
         <Item>
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Popup">
