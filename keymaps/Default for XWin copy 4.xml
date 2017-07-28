@@ -2,7 +2,21 @@
   <action id="ExternalSystem.RefreshAllProjects">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="s" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoLine" />
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="k" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="f" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
