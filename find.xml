@@ -7,14 +7,15 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Non-generated, project-only, non-third party files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.kt</mask>
       <mask>!*.md</mask>
-      <mask>*.java</mask>
       <mask>strings.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
