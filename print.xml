@@ -1,5 +1,10 @@
 <application>
   <component name="PrintSettings">
     <option name="printScope" value="2" />
+    <option name="COLOR_PRINTING" value="true" />
+    <option name="PRINT_AS_GRAPHICS" value="false" />
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+    <option name="WRAP" value="false" />
+    <option name="DRAW_BORDER" value="false" />
   </component>
 </application>

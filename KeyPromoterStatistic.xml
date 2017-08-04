@@ -53,7 +53,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -68,7 +68,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>27</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -87,6 +87,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Print...">
+        <Item>
+          <IdeaActionID>Print</IdeaActionID>
+          <ShortCut>'Alt+P'</ShortCut>
+          <Description>Print...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh all Gradle projects">
         <Item>
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
@@ -99,7 +107,7 @@
         <Item>
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Popup">
@@ -146,7 +154,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
     </option>
