@@ -68,7 +68,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>31</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -181,6 +181,12 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
