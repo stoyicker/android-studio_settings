@@ -60,7 +60,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -68,7 +68,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Package">
@@ -84,14 +84,14 @@
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <ShortCut>'Ctrl+G, S'</ShortCut>
           <Description>Refresh all Gradle projects</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
         <Item>
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Popup">
