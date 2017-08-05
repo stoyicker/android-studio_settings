@@ -47,6 +47,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy Value</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -145,7 +153,15 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -153,7 +169,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>35</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Android Debugger (8602)'">
@@ -169,7 +185,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
     </option>
