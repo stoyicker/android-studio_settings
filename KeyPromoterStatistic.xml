@@ -156,6 +156,14 @@
           <Count>35</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Android Debugger (8602)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Android Debugger (8602)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'app'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
