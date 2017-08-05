@@ -3,7 +3,6 @@
     <option name="statistics">
       <Statistic Action="Add scope">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Insert'</ShortCut>
           <Description>Add scope</Description>
           <Count>1</Count>
@@ -45,7 +44,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -100,7 +99,7 @@
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <ShortCut>'Ctrl+G, S'</ShortCut>
           <Description>Refresh all Gradle projects</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
