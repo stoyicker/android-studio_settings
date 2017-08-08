@@ -75,7 +75,15 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>39</Count>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Kotlin File/Class">
+        <Item>
+          <IdeaActionID>Kotlin.NewFile</IdeaActionID>
+          <ShortCut>'Ctrl+N, K'</ShortCut>
+          <Description>Kotlin File/Class</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -91,7 +99,7 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Ctrl+N, P'</ShortCut>
           <Description>Package</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Print...">
@@ -114,7 +122,7 @@
         <Item>
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Popup">
@@ -145,7 +153,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -185,7 +193,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
     </option>
