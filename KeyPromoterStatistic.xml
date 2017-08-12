@@ -75,7 +75,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>42</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Kotlin File/Class">
