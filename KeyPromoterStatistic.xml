@@ -75,7 +75,7 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>57</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Kotlin File/Class">
@@ -115,7 +115,7 @@
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <ShortCut>'Ctrl+G, S'</ShortCut>
           <Description>Refresh all Gradle projects</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -129,6 +129,14 @@
         <Item>
           <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
           <Description>Restore Popup</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
