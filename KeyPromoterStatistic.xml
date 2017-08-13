@@ -71,13 +71,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Hide">
-        <Item>
-          <ShortCut>'Shift+Escape'</ShortCut>
-          <Description>Hide</Description>
-          <Count>67</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Kotlin File/Class">
         <Item>
           <IdeaActionID>Kotlin.NewFile</IdeaActionID>
@@ -242,6 +235,13 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Exclude</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
