@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Non-generated" />
+    <option name="FILE_MASK" value="*Recommendation*.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
@@ -16,6 +17,7 @@
       <mask>*.java</mask>
       <mask>strings.xml</mask>
       <mask>*Entity.kt</mask>
+      <mask>*Recommendation*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
