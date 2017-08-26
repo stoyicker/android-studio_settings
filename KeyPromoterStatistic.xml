@@ -170,7 +170,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>6</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
