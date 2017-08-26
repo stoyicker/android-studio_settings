@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Non-generated" />
     <option name="defaultScopeName" value="Non-generated" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Non-generated" />
-    <option name="FILE_MASK" value="*Resolved*.kt" />
+    <option name="FILE_MASK" value="Resolved*.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.gradle</mask>
@@ -19,6 +17,7 @@
       <mask>*Entity.kt</mask>
       <mask>*Recommendation*.kt</mask>
       <mask>*Resolved*.kt</mask>
+      <mask>Resolved*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
