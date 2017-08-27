@@ -68,7 +68,7 @@
           <IdeaActionID>NewDir</IdeaActionID>
           <ShortCut>'Ctrl+N, P'</ShortCut>
           <Description>Directory</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
