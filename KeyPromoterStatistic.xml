@@ -148,7 +148,7 @@
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <ShortCut>'Ctrl+G, S'</ShortCut>
           <Description>Refresh all Gradle projects</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -191,7 +191,6 @@
       </Statistic>
       <Statistic Action="Select Next View">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Right'</ShortCut>
           <Description>Select Next View</Description>
           <Count>1</Count>
