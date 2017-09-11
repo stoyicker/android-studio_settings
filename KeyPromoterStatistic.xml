@@ -170,7 +170,7 @@
         <Item>
           <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
           <Description>Restore Popup</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
