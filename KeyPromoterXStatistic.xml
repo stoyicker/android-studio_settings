@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -88,6 +88,14 @@
           <IdeaActionID>ActivateAndroidMonitorToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Android Monitor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh all Gradle projects">
+        <Item>
+          <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
+          <ShortCut>'Ctrl+G, S'</ShortCut>
+          <Description>Refresh all Gradle projects</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
