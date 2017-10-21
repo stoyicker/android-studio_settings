@@ -30,7 +30,7 @@
           <IdeaActionID>RenameFile</IdeaActionID>
           <ShortCut>'Alt+Shift+F6'</ShortCut>
           <Description>Rename File...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
