@@ -14,7 +14,7 @@
           <IdeaActionID>RenameFile</IdeaActionID>
           <ShortCut>'Alt+Shift+F6'</ShortCut>
           <Description>Rename File...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
