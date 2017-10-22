@@ -155,6 +155,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>RebuildGradleProject</IdeaActionID>
+          <Description>Rebuild Project</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh all Gradle projects">
         <Item>
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
