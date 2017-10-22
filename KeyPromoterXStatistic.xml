@@ -126,7 +126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
     </option>
