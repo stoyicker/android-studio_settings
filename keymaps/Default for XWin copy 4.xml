@@ -41,4 +41,7 @@
   <action id="template.create.XMLLayout XML File">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="l" />
   </action>
+  <action id="template.create.XMLValues XML File">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="v" />
+  </action>
 </keymap>
