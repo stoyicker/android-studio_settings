@@ -18,14 +18,15 @@
       <mask>*Resolved*.kt</mask>
       <mask>Resolved*.kt</mask>
       <mask>*Dao.kt</mask>
-      <mask>*.</mask>
       <mask>*.k</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
-      <mask>*.kt</mask>
       <mask>gra</mask>
       <mask>*.gradle</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
