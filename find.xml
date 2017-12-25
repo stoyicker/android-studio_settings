@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>!*.md</mask>
@@ -21,16 +21,16 @@
       <mask>gra</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.k</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>*.kt</mask>
+      <mask>*.k</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
