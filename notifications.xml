@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Emulator" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Build (Balloon)" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
