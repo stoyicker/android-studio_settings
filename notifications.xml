@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin update information" displayType="NONE" shouldLog="false" />
     <notification groupId="Emulator" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" displayType="NONE" shouldLog="false" />
