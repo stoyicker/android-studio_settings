@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>!*.md</mask>
@@ -26,8 +27,8 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.kt</mask>
-      <mask>*.xml</mask>
       <mask>*.gradle</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
