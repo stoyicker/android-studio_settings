@@ -2,38 +2,16 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
-    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
-    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="android.R" />
     <EXCLUDED_PACKAGE NAME="android.app.Fragment" />
     <EXCLUDED_PACKAGE NAME="android.database.Observable" />
-    <EXCLUDED_PACKAGE NAME="android.icu.text.Normalizer2.Mode" />
-    <EXCLUDED_PACKAGE NAME="android.opengl" />
-    <EXCLUDED_PACKAGE NAME="android.support.design.R.id.never" />
-    <EXCLUDED_PACKAGE NAME="android.support.design.widget.TabLayout.Mode" />
-    <EXCLUDED_PACKAGE NAME="android.support.test.espresso.core.deps.guava.base.Preconditions" />
-    <EXCLUDED_PACKAGE NAME="android.support.v7.appcompat.R.id.never" />
-    <EXCLUDED_PACKAGE NAME="android.telecom.Call" />
-    <EXCLUDED_PACKAGE NAME="android.test.MoreAsserts" />
-    <EXCLUDED_PACKAGE NAME="android.util.EventLogTags" />
-    <EXCLUDED_PACKAGE NAME="android.view.Display.Mode" />
-    <EXCLUDED_PACKAGE NAME="com.schibsted.login.R.id.never" />
-    <EXCLUDED_PACKAGE NAME="com.schibsted.spt.tracking.sdk.util" />
-    <EXCLUDED_PACKAGE NAME="dagger.internal" />
-    <EXCLUDED_PACKAGE NAME="edu.emory" />
-    <EXCLUDED_PACKAGE NAME="java.sql.Statement" />
+    <EXCLUDED_PACKAGE NAME="java.security.acl.Owner" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="java.text.SimpleDateFormat" />
     <EXCLUDED_PACKAGE NAME="java.util.Observable" />
-    <EXCLUDED_PACKAGE NAME="java.util.Observer" />
+    <EXCLUDED_PACKAGE NAME="java.util.function.Consumer" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
-    <EXCLUDED_PACKAGE NAME="javafx.beans" />
+    <EXCLUDED_PACKAGE NAME="javax.security.auth.Subject" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
-    <EXCLUDED_PACKAGE NAME="kotlin.test" />
-    <EXCLUDED_PACKAGE NAME="net.bytebuddy.implementation.Implementation.Context" />
-    <EXCLUDED_PACKAGE NAME="net.bytebuddy.matcher.ElementMatchers" />
-    <EXCLUDED_PACKAGE NAME="okhttp3.internal.framed.FrameReader.Handler" />
-    <EXCLUDED_PACKAGE NAME="org.chromium.mojo.bindings.Interface.Proxy.Handler" />
-    <EXCLUDED_PACKAGE NAME="org.jetbrains.annotations.Nullable" />
-    <EXCLUDED_PACKAGE NAME="retrofit2.http.HEAD" />
   </component>
 </application>

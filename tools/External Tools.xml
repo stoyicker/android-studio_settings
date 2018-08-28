@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="System app installer" description="A script that pushes the updated APK of a system app" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="../../common/platform/install_platformsigned_privapp" />
+      <option name="PARAMETERS" value="appname=$ProjectName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
