@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin update information" displayType="NONE" shouldLog="false" />
     <notification groupId="Emulator" displayType="NONE" />
     <notification groupId="Outdated Kotlin Runtime" displayType="NONE" shouldLog="false" />
   </component>
