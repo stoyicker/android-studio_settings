@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="AndroidManifest.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>!*.md</mask>
@@ -28,6 +29,7 @@
       <mask>*.kt</mask>
       <mask>*.gradle</mask>
       <mask>*.xml</mask>
+      <mask>AndroidManifest.xml</mask>
     </recentFileMasks>
   </component>
 </application>
