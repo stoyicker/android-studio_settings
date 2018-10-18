@@ -7,9 +7,11 @@
     <EXCLUDED_PACKAGE NAME="android.database.Observable" />
     <EXCLUDED_PACKAGE NAME="java.security.acl.Owner" />
     <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="java.text.DateFormat" />
     <EXCLUDED_PACKAGE NAME="java.text.SimpleDateFormat" />
     <EXCLUDED_PACKAGE NAME="java.util.Base64" />
     <EXCLUDED_PACKAGE NAME="java.util.Observable" />
+    <EXCLUDED_PACKAGE NAME="java.util.TimeZone" />
     <EXCLUDED_PACKAGE NAME="java.util.function.Consumer" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="javax.security.auth.Subject" />
