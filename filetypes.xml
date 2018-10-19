@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="uninstall" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="aefa" type="PLAIN_TEXT" />
+      <mapping pattern="afeaf" type="PLAIN_TEXT" />
+      <mapping pattern="restart" type="PLAIN_TEXT" />
+      <mapping pattern="install" type="PLAIN_TEXT" />
+      <mapping ext="skeleton" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
