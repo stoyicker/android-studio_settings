@@ -13,6 +13,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.Observable" />
     <EXCLUDED_PACKAGE NAME="java.util.TimeZone" />
     <EXCLUDED_PACKAGE NAME="java.util.function.Consumer" />
+    <EXCLUDED_PACKAGE NAME="java.util.function.Function" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="javax.security.auth.Subject" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
