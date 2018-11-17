@@ -15,6 +15,7 @@
     <EXCLUDED_PACKAGE NAME="java.util.function.Consumer" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Handler" />
     <EXCLUDED_PACKAGE NAME="javax.security.auth.Subject" />
+    <EXCLUDED_PACKAGE NAME="javax.sql.DataSource" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
   </component>
 </application>
