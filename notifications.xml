@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Emulator" displayType="NONE" />
+    <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" displayType="NONE" />
   </component>
 </application>
