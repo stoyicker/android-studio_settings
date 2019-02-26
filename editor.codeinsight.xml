@@ -3,6 +3,11 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="android.service.autofill.Validators" />
     <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="net.bytebuddy" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.AdditionalMatchers" />
   </component>
 </application>
