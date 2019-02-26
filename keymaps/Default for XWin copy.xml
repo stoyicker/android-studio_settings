@@ -4,8 +4,18 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="Inline" />
   <action id="IntroduceTypeAlias" />
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt n" second-keystroke="k" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt n" second-keystroke="j" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt n" second-keystroke="f" />
   </action>
 </keymap>
