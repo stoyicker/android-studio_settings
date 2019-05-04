@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.*" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,10 +14,10 @@
     <mask>*.mxml</mask>
     <mask>*Module.kt</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>AccessorWriter.*</mask>
     <mask>!*Test.java</mask>
     <mask>*Test.*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
