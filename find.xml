@@ -11,7 +11,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*Module.kt</mask>
     <mask>*.kt</mask>
     <mask>AccessorWriter.*</mask>
     <mask>!*Test.java</mask>
@@ -21,5 +20,6 @@
     <mask>*.gradle</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>*.xml</mask>
+    <mask>*Module.kt</mask>
   </component>
 </application>
