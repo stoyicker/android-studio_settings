@@ -5,6 +5,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="android.service.autofill.Validators" />
     <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="java.util.logging" />
     <EXCLUDED_PACKAGE NAME="net.bytebuddy" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.core.IsNot" />
