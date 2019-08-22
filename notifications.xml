@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Emulator" displayType="NONE" />
     <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" displayType="NONE" />
