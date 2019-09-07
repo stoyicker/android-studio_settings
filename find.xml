@@ -19,8 +19,8 @@
     <mask>AndroidManifest.xml</mask>
     <mask>*Module.kt</mask>
     <mask>strings.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
