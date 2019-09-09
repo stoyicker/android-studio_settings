@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
@@ -20,9 +18,9 @@
     <mask>*.java</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>*Module.kt</mask>
-    <mask>strings.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
+    <mask>strings.xml</mask>
   </component>
 </application>
